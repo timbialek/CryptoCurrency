@@ -57,3 +57,6 @@ Final Scatter Plot
 ![](https://github.com/timbialek/CryptoCurrency/blob/main/Resources/D4_Final_Scatter_plot.PNG)
 
 
+
+After Cleaning and Transforming the data, we ended up with 4 difference classes of crypto from the 532 cryptocurrencies that were in the final dataset.
+
