@@ -24,7 +24,7 @@ Cleaned DataFrame
 
 ## Deliverable 2: Reducing Data Dimensions Using PCA
 
-PCA DataFrame reducing Data to 3 Dimensions
+PCA DataFrame with 3 Dimensions
 
 ![](https://github.com/timbialek/CryptoCurrency/blob/main/Resources/D2_DataFrame3principalComponents.PNG)
 
