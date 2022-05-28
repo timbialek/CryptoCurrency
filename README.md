@@ -24,15 +24,14 @@ Cleaned DataFrame
 
 ## Deliverable 2: Reducing Data Dimensions Using PCA
 
-PCA DataFrame
+PCA DataFrame reducing Data to 3 Dimensions
 
 ![](https://github.com/timbialek/CryptoCurrency/blob/main/Resources/D2_DataFrame3principalComponents.PNG)
 
+
 ## Deliverable 3: Clustering Cryptocurrencies Using K-means
 
-DataFrame with Clusters and reduced to 3 Dimensions
-
-![](https://github.com/timbialek/CryptoCurrency/blob/main/Resources/D3_DataFrameWithClusters.PNG)
+DataFrame with Clusters
 
 Elbow Curve
 
@@ -40,10 +39,12 @@ Elbow Curve
 
 Clustered DataFrame
 
+![](https://github.com/timbialek/CryptoCurrency/blob/main/Resources/D3_DataFrameWithClusters.PNG)
+
 
 ## Deliverable 4: Visualizing Cryptocurrencies Results
 
-Tradeable Crytocurrencies Table
+Tradeable Cryptocurrencies Table
 
 ![](https://github.com/timbialek/CryptoCurrency/blob/main/Resources/D4_Table_with_Tradable_Coins.PNG)
 
@@ -51,9 +52,8 @@ Tradeable Crytocurrencies Table
 
 ![](https://github.com/timbialek/CryptoCurrency/blob/main/Resources/D4_3D_ScatterPlot.PNG)
 
-Scatter Plot
+Final Scatter Plot
 
 ![](https://github.com/timbialek/CryptoCurrency/blob/main/Resources/D4_Final_Scatter_plot.PNG)
-
 
 
